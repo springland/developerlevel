@@ -1,0 +1,19 @@
+Learned one or more programming lanuages.knows the basic  programming models
+
+Can read code of an existing system. Understand how does an existing applicaiton work by playing the app and studying/debugging source code . Do side by side comparision between what is the app and how does source code work 
+With a spec can maitain a system. develop  some features by following sample code
+Knows what to read from log and how to read it. Can find information from log. Based on source code he/she has a sense which direction should move forward to next step.  About 60% of developers I have met in my career is not capable of this.
+With a spec can design/implement a system from scratch
+Be able to continious improve a system under his/her umbreller.  A developer knows what/how/why of a system , can find out issues instead of being told by users.
+
+
+Having big picture.  knows diffferent areas of up/down stream. How to work with them, anything can be improved
+Be able to design a solution from scratch that satisifies requirement and maintainable
+Have independent judgement , be able to think logicially.  Does not take suggestion blindly.  It is impossible for someone to be always right. However if a developer could not even to convince him/herself it may not be a right solution. On the flip side please do not be stubborn. I have seen a lot of folks keep ingoring some basic facts and act emotionly
+Be able to diagnosis issues for other's projects.  With a simple description what does the system do he/she has a design in mind right away.  Based on system beheavors and logs a develoepr can figure out what might be wrong. With a few rounds of iteration a deep understanding  
+
+Have diversified skills, can take multiple roles
+Be able to design an system that helps user instead of forcing user to use it.  (Majority of systems I have seen were given ) , need to be able to think in advance
+Next step is knowing who can do what , what is best solution with current resource abilities instead of based on text book ,Really understand pick up two from three - faster , better, cheaper and use it everyday. What does firm provide , why is that
+Performance , scability , maintability , cost optimization , resilience 
+Keep learning  , expanding knowledge ,new technlologies to bring systems to next level
