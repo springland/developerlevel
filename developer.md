@@ -8,7 +8,8 @@
 ## Mid-Level:
 4. Possesses an extensive grasp of programming languages, applying them across various paradigms.
 5. Skilled in comprehending codebases, performing comparisons between application functions and source code, and maintaining systems based on provided guidelines.
-6. Proficient in interpreting logs to extract insights, steering the development process accordingly.
+6. Proficiency in crafting accurate test cases that directly mirror real-world business use cases, ensuring alignment with the application's intended functionality. 
+7. Proficient in interpreting logs to extract insights, steering the development process accordingly.
 ## Senior Level:
 7. Demonstrates proficiency in designing and implementing systems from the ground up, adhering to specified requirements.
 8. Displays an adeptness at continuously enhancing systems, considering architecture, functionality, and sustainability.
